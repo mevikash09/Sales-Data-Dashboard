@@ -36,3 +36,9 @@ This dashboard is an invaluable tool for business analysts, sales managers, and 
 The dashboard is built upon the `SalesData.pbix` dataset, which includes comprehensive sales records with columns such as 'Product', 'Quantity', 'Unit Price (INR)', 'Date', 'State', 'Sales Channel', 'Payment Type', and 'Sales'.
 
 ---
+
+<img src="Sales data_page-0001.jpg"/>
+
+---
+
+
